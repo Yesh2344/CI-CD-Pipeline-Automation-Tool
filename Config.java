@@ -1,3 +1,4 @@
+# Minor edit
 public class Config {
     private String buildTool;
     private String testFramework;
