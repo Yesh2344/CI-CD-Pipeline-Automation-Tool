@@ -12,3 +12,5 @@ The CI/CD Pipeline Automation Tool is a Java-based application designed to autom
 
 ## Usage
 To use the CI/CD Pipeline Automation Tool, create a `config.json` file with the following format:
+
+Additional details added.
