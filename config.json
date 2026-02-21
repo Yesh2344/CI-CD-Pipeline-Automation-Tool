@@ -1,0 +1,5 @@
+{
+  "buildTool": "maven",
+  "testFramework": "junit",
+  "deploymentPlatform": "aws"
+}
